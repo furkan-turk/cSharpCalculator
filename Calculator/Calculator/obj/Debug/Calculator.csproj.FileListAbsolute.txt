@@ -1,0 +1,10 @@
+C:\Users\furka\OneDrive\Masaüstü\excersize\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\furka\OneDrive\Masaüstü\excersize\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\furka\OneDrive\Masaüstü\excersize\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\furka\OneDrive\Masaüstü\excersize\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\excersize\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\furka\OneDrive\Masaüstü\excersize\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\furka\OneDrive\Masaüstü\excersize\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\furka\OneDrive\Masaüstü\excersize\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\excersize\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\furka\OneDrive\Masaüstü\excersize\Calculator\Calculator\obj\Debug\Calculator.pdb
